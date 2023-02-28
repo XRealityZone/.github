@@ -47,6 +47,10 @@ func someFunc() {
 
 ![image](https://user-images.githubusercontent.com/8003181/221884858-d9fff0ef-f150-4d9a-bf17-6b8ab5d05e2c.png)
 
+这主要是为了防止一些宽度不够的图片，在一些 ScaleToFit 的场景会出来一张纵向巨长的图片。
+
+目前的 PR 检查中，会在提交后检查使用的图片是否符合要求。
+
 9. 使用 `/quote` 表达正文中以下 4 种需要额外提及的内容：
 
 > 提示：
