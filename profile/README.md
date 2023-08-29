@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[中文版本](./README-CN.md)
+
 Welcome, brave explorers of the XR world, to the land called XRealityZone.
 
 XRealityZone is a community of creators focused on the XR field. We hope to help any aspiring creators who want to create and deepen their work in the XR world through in-depth articles and tutorials, simple but useful tools, and active but not noisy discussion groups.
