@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[中文版本](./README-CN.md)
+[中文版本](https://github.com/XRealityZone/.github/blob/main/profile/README-CN.md)
 
 Welcome, brave explorers of the XR world, to the land called XRealityZone.
 
