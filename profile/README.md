@@ -10,8 +10,8 @@ We strongly believe that one person may go fast, but only a group of people can 
 
 Currently, we're focusing on the following:
 
-- **XR World Weekly**: This is a periodical that only brings you high-quality XR information, a half-monthly issue on average, hoping to bring you a "refreshing" reading experience every time you read it.
-- **XR development articles**: in the era of lack of XR development information, we hope to present the knowledge we already have, to bring a ray of hopeful green to the barren desert.
+- **[XR World Weekly](https://xreality.zone/en/tags/newsletter/)**: This is a periodical that only brings you high-quality XR information, a half-monthly issue on average, hoping to bring you a "refreshing" reading experience every time you read it.
+- **[XR development articles](https://xreality.zone/en/tags/article/)**: in the era of lack of XR development information, we hope to present the knowledge we already have, to bring a ray of hopeful green to the barren desert.
 If you like what we are doing, you are welcome to bookmark and forward the articles on the site.
 
 If you are interested in what we are doing, you are very welcome to leave a comment under any article or contact us via [Email](mailto:xreality.zone@outlook.com), [Twitter](https://twitter.com/XRealityZone), [Official Website](https://xreality.zone/) .
