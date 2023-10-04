@@ -14,5 +14,7 @@ Currently, we're focusing on the following:
 - **XR development articles**: in the era of lack of XR development information, we hope to present the knowledge we already have, to bring a ray of hopeful green to the barren desert.
 If you like what we are doing, you are welcome to bookmark and forward the articles on the site.
 
-If you are interested in what we are doing, you are very welcome to leave a comment under any article or contact us via [Email](mailto:xreality.zone@outlook.com) or [Twitter](https://twitter.com/XRealityZone).
+If you are interested in what we are doing, you are very welcome to leave a comment under any article or contact us via [Email](mailto:xreality.zone@outlook.com), [Twitter](https://twitter.com/XRealityZone), [Official Website](https://xreality.zone/) .
+
+
 
