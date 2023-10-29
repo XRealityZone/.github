@@ -12,5 +12,10 @@ XR 基地是一个专注于 XR 领域的创作者社区，我们希望通过深�
 - **[XR 开发文章](https://xreality.zone/zh/tags/article/)**：在 XR 开发资料匮乏的时代，我们希望将我们已有的知识呈现出来，给贫瘠的沙漠带来一丝充满希望的绿意。
 如果你也认可我们所做的事情，欢迎你将站内的文章收藏与转发。
 
-如果你对我们所做的事情感兴趣，非常欢迎你在任何一篇文章下留言评论或者通过 [Email](mailto:xreality.zone@outlook.com)、[微信公众号](https://uploads-ssl.webflow.com/6455c94ca91f31430ce133c8/6474bdafdc63e8c013f74ac9_%E6%89%AB%E7%A0%81_%E6%90%9C%E7%B4%A2%E8%81%94%E5%90%88%E4%BC%A0%E6%92%AD%E6%A0%B7%E5%BC%8F-%E7%99%BD%E8%89%B2%E7%89%88.jpg)、[官方网站](https://xreality.zone/)与我们联系。
+如果你对我们所做的事情感兴趣，非常欢迎你在任何一篇文章下留言评论或者通过 [Email](mailto:xreality.zone@outlook.com) 与我们联系。
 
+如果你熟悉英语，你可以通过以下方式找到我们:[官方网站(EN)](https://xreality.zone/en/), [X(twitter)](https://twitter.com/XRealityZone), [Medium](https://medium.com/@xreality.zone)。 
+ 
+如果您熟悉中文，您还可以通过以下方式找到我们:[官方网站(CN)](https://xreality.zone/zh/), [微博](https://m.weibo.cn/u/6874667850), [即刻](https://web.okjike.com/u/ab5d744a-7d44-4a68-8e66-af6b49515252), [微信公众号](http://weixin.qq.com/r/qzkSCsjEK5VUrYxp92y5), [稀土掘金](https://juejin.cn/user/1075772629977741)。 
+ 
+XRealityZone是一个专注于XR的创作者社区，我们的目标是使XR开发更容易!
