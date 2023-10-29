@@ -14,8 +14,8 @@ XR 基地是一个专注于 XR 领域的创作者社区，我们希望通过深�
 
 如果你对我们所做的事情感兴趣，非常欢迎你在任何一篇文章下留言评论或者通过 [Email](mailto:xreality.zone@outlook.com) 与我们联系。
 
-如果你熟悉英语，你可以通过以下方式找到我们:[官方网站(EN)](https://xreality.zone/en/), [X(twitter)](https://twitter.com/XRealityZone), [Medium](https://medium.com/@xreality.zone)。 
- 
-如果您熟悉中文，您还可以通过以下方式找到我们:[官方网站(CN)](https://xreality.zone/zh/), [微博](https://m.weibo.cn/u/6874667850), [即刻](https://web.okjike.com/u/ab5d744a-7d44-4a68-8e66-af6b49515252), [微信公众号](http://weixin.qq.com/r/qzkSCsjEK5VUrYxp92y5), [稀土掘金](https://juejin.cn/user/1075772629977741)。 
+> 如果你熟悉英语，你可以通过以下方式找到我们:[官方网站(EN)](https://xreality.zone/en/), [X(twitter)](https://twitter.com/XRealityZone), [Medium](https://medium.com/@xreality.zone)。
+>
+> 如果您熟悉中文，您还可以通过以下方式找到我们:[官方网站(CN)](https://xreality.zone/zh/), [微博](https://m.weibo.cn/u/6874667850), [即刻](https://web.okjike.com/u/ab5d744a-7d44-4a68-8e66-af6b49515252), [微信公众号](http://weixin.qq.com/r/qzkSCsjEK5VUrYxp92y5), [稀土掘金](https://juejin.cn/user/1075772629977741)。 
  
 XRealityZone是一个专注于XR的创作者社区，我们的目标是使XR开发更容易!
